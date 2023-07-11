@@ -1,0 +1,325 @@
+﻿Active,ParkCode,Resource,Description,Year,LocationID,AcceptedSpecies,USDA_CName,Family,FamilyCommonName,Origin,SumOfSeedling,SumOfSmallSapling,SumOfLargeSapling
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,Acer rubrum,red maple,Aceraceae,Maple family,N,15,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,9,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,14,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,6,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,Red oak group,NA,Fagaceae,Beech family,N,2,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,33,1,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,Ulmus,elm,Ulmaceae,Elm family,N,4,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon10,White oak group,NA,Fagaceae,Beech family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Acer rubrum,red maple,Aceraceae,Maple family,N,2,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Carya,hickory,Juglandaceae,Walnut family,N,2,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,4,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,1,0,1
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Fraxinus americana,white ash,Oleaceae,Olive family,N,7,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Morus rubra,red mulberry,Moraceae,Mulberry family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Prunus,plum,Rosaceae,Rose family,N,5,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Ulmus,elm,Ulmaceae,Elm family,N,20,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,Ulmus alata,winged elm,Ulmaceae,Elm family,N,0,0,1
+TRUE,PERI,forest,OAH,2007,PERIVegMon13,White oak group,NA,Fagaceae,Beech family,N,14,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Acer rubrum,red maple,Aceraceae,Maple family,N,4,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Carya,hickory,Juglandaceae,Walnut family,N,9,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,88,1,1
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,9,1,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Fraxinus americana,white ash,Oleaceae,Olive family,N,2,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,6,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,9,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Prunus,plum,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Red oak group,NA,Fagaceae,Beech family,N,23,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,97,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,Ulmus,elm,Ulmaceae,Elm family,N,21,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon15,White oak group,NA,Fagaceae,Beech family,N,44,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Acer rubrum,red maple,Aceraceae,Maple family,N,4,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Carya,hickory,Juglandaceae,Walnut family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Cercis canadensis,estern redbud,Fabaceae,Pea family,N,4,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,12,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,4,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Morus rubra,red mulberry,Moraceae,Mulberry family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,10,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Prunus,plum,Rosaceae,Rose family,N,2,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Red oak group,NA,Fagaceae,Beech family,N,2,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,22,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,Ulmus,elm,Ulmaceae,Elm family,N,15,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon8,White oak group,NA,Fagaceae,Beech family,N,2,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Acer rubrum,red maple,Aceraceae,Maple family,N,24,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,37,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,6,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,1,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Prunus,plum,Rosaceae,Rose family,N,2,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Quercus marilandica,blackjack oak,Fagaceae,Beech family,N,3,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Red oak group,NA,Fagaceae,Beech family,N,19,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,6,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,Ulmus,elm,Ulmaceae,Elm family,N,11,0,0
+TRUE,PERI,forest,OAH,2007,PERIVegMon9,White oak group,NA,Fagaceae,Beech family,N,46,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Acer rubrum,red maple,Aceraceae,Maple family,N,3,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Carya,hickory,Juglandaceae,Walnut family,N,5,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,16,1,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,2,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,0,5,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,3,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Red oak group,NA,Fagaceae,Beech family,N,9,1,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,20,3,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,Ulmus,elm,Ulmaceae,Elm family,N,4,2,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon10,White oak group,NA,Fagaceae,Beech family,N,22,1,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon13,Carya,hickory,Juglandaceae,Walnut family,N,4,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon13,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,1,2,1
+TRUE,PERI,forest,OAH,2012,PERIVegMon13,Fraxinus americana,white ash,Oleaceae,Olive family,N,35,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon13,Red oak group,NA,Fagaceae,Beech family,N,9,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon13,Ulmus,elm,Ulmaceae,Elm family,N,48,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon13,White oak group,NA,Fagaceae,Beech family,N,28,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Carya,hickory,Juglandaceae,Walnut family,N,8,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,57,1,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,6,1,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Fraxinus americana,white ash,Oleaceae,Olive family,N,1,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,5,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Prunus,plum,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Red oak group,NA,Fagaceae,Beech family,N,25,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,19,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,Ulmus,elm,Ulmaceae,Elm family,N,16,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon15,White oak group,NA,Fagaceae,Beech family,N,32,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Carya,hickory,Juglandaceae,Walnut family,N,1,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,1,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,3,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,5,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,1,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Lindera benzoin,northern spicebush,Lauraceae,Laurel family,N,18,10,4
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Red oak group,NA,Fagaceae,Beech family,N,3,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,12,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,Ulmus,elm,Ulmaceae,Elm family,N,24,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon8,White oak group,NA,Fagaceae,Beech family,N,3,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Acer rubrum,red maple,Aceraceae,Maple family,N,8,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Celtis,hackberry,Ulmaceae,Elm family,N,2,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,1,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,2,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,3,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,4,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Prunus,plum,Rosaceae,Rose family,N,4,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Red oak group,NA,Fagaceae,Beech family,N,20,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,Ulmus,elm,Ulmaceae,Elm family,N,13,0,0
+TRUE,PERI,forest,OAH,2012,PERIVegMon9,White oak group,NA,Fagaceae,Beech family,N,38,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Acer rubrum,red maple,Aceraceae,Maple family,N,5,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Carya,hickory,Juglandaceae,Walnut family,N,7,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Cercis canadensis,estern redbud,Fabaceae,Pea family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,29,3,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,4,1,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Fraxinus pennsylvanica,green ash,Oleaceae,Olive family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Morus rubra,red mulberry,Moraceae,Mulberry family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,17,1,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Quercus alba,white oak,Fagaceae,Beech family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Quercus velutina,black oak,Fagaceae,Beech family,N,2,3,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Red oak group,NA,Fagaceae,Beech family,N,5,1,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,24,8,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,Ulmus,elm,Ulmaceae,Elm family,N,12,3,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon10,White oak group,NA,Fagaceae,Beech family,N,33,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Aesculus glabra,Ohio buckeye,Hippocastanaceae,Horse chestnut family,N,0,2,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Carya,hickory,Juglandaceae,Walnut family,N,18,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,19,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,1,2,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Fraxinus americana,white ash,Oleaceae,Olive family,N,56,1,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,3,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Prunus serotina,black cherry,Rosaceae,Rose family,N,5,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Red oak group,NA,Fagaceae,Beech family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,Ulmus,elm,Ulmaceae,Elm family,N,44,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon13,White oak group,NA,Fagaceae,Beech family,N,13,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Acer rubrum,red maple,Aceraceae,Maple family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Carya,hickory,Juglandaceae,Walnut family,N,19,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,91,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,15,2,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Fraxinus americana,white ash,Oleaceae,Olive family,N,4,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Gleditsia triacanthos,honeylocust,Fabaceae,Pea family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Lindera benzoin,northern spicebush,Lauraceae,Laurel family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,57,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Prunus serotina,black cherry,Rosaceae,Rose family,N,5,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Red oak group,NA,Fagaceae,Beech family,N,55,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,71,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,Ulmus,elm,Ulmaceae,Elm family,N,25,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon15,White oak group,NA,Fagaceae,Beech family,N,40,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Acer rubrum,red maple,Aceraceae,Maple family,N,9,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Carya,hickory,Juglandaceae,Walnut family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Cercis canadensis,estern redbud,Fabaceae,Pea family,N,4,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,10,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,11,1,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Lindera benzoin,northern spicebush,Lauraceae,Laurel family,N,8,5,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,3,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Prunus,plum,Rosaceae,Rose family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Prunus serotina,black cherry,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Red oak group,NA,Fagaceae,Beech family,N,6,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,18,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Ulmus,elm,Ulmaceae,Elm family,N,11,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Ulmus alata,winged elm,Ulmaceae,Elm family,N,4,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,Ulmus rubra,slippery elm,Ulmaceae,Elm family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon8,White oak group,NA,Fagaceae,Beech family,N,10,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Acer rubrum,red maple,Aceraceae,Maple family,N,12,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Carya,hickory,Juglandaceae,Walnut family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,7,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,49,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,15,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,3,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Prunus,plum,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Prunus serotina,black cherry,Rosaceae,Rose family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Quercus marilandica,blackjack oak,Fagaceae,Beech family,N,2,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Red oak group,NA,Fagaceae,Beech family,N,25,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,25,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,Ulmus,elm,Ulmaceae,Elm family,N,12,0,0
+TRUE,PERI,forest,OAH,2016,PERIVegMon9,White oak group,NA,Fagaceae,Beech family,N,48,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Acer rubrum,red maple,Aceraceae,Maple family,N,13,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Amelanchier arborea,common serviceberry,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Carya,hickory,Juglandaceae,Walnut family,N,8,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,6,1,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Cercis canadensis,estern redbud,Fabaceae,Pea family,N,3,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,38,2,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,0,1,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Juglans nigra,black walnut,Juglandaceae,Walnut family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,6,1,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Morus rubra,red mulberry,Moraceae,Mulberry family,N,6,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,29,1,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Red oak group,NA,Fagaceae,Beech family,N,9,3,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Robinia pseudoacacia,black locust,Fabaceae,Pea family,N,2,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,14,9,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,Ulmus,elm,Ulmaceae,Elm family,N,14,3,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon10,White oak group,NA,Fagaceae,Beech family,N,45,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Acer rubrum,red maple,Aceraceae,Maple family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Aesculus glabra,Ohio buckeye,Hippocastanaceae,Horse chestnut family,N,0,3,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Carya,hickory,Juglandaceae,Walnut family,N,24,2,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,2,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,3,1,1
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,2,3,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Fraxinus,ash,Oleaceae,Olive family,N,79,6,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Juglans nigra,black walnut,Juglandaceae,Walnut family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,10,0,1
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Prunus serotina,black cherry,Rosaceae,Rose family,N,2,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Red oak group,NA,Fagaceae,Beech family,N,6,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,3,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,Ulmus,elm,Ulmaceae,Elm family,N,42,5,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon13,White oak group,NA,Fagaceae,Beech family,N,10,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Amelanchier arborea,common serviceberry,Rosaceae,Rose family,N,2,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Carya,hickory,Juglandaceae,Walnut family,N,23,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,3,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,27,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,8,1,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Fraxinus,ash,Oleaceae,Olive family,N,4,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Gleditsia triacanthos,honeylocust,Fabaceae,Pea family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Morus rubra,red mulberry,Moraceae,Mulberry family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,76,0,1
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Prunus serotina,black cherry,Rosaceae,Rose family,N,7,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Red oak group,NA,Fagaceae,Beech family,N,22,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,62,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,Ulmus,elm,Ulmaceae,Elm family,N,27,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon15,White oak group,NA,Fagaceae,Beech family,N,36,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Acer rubrum,red maple,Aceraceae,Maple family,N,60,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Amelanchier arborea,common serviceberry,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Carya,hickory,Juglandaceae,Walnut family,N,4,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,7,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Cercis canadensis,estern redbud,Fabaceae,Pea family,N,7,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,10,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Juglans nigra,black walnut,Juglandaceae,Walnut family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Morus rubra,red mulberry,Moraceae,Mulberry family,N,10,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,8,2,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Prunus serotina,black cherry,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Red oak group,NA,Fagaceae,Beech family,N,5,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,14,7,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,Ulmus,elm,Ulmaceae,Elm family,N,25,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon8,White oak group,NA,Fagaceae,Beech family,N,7,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Acer rubrum,red maple,Aceraceae,Maple family,N,4,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Carya,hickory,Juglandaceae,Walnut family,N,9,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,2,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,19,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Crataegus,hawthorn,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,9,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Fraxinus,ash,Oleaceae,Olive family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,3,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Morus rubra,red mulberry,Moraceae,Mulberry family,N,1,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,23,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Prunus serotina,black cherry,Rosaceae,Rose family,N,4,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Quercus,oak,Fagaceae,Beech family,N,6,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Red oak group,NA,Fagaceae,Beech family,N,29,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,12,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,Ulmus,elm,Ulmaceae,Elm family,N,12,0,0
+TRUE,PERI,forest,OAH,2021,PERIVegMon9,White oak group,NA,Fagaceae,Beech family,N,19,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Carya,hickory,Juglandaceae,Walnut family,N,15,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,27,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,1,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,10,2,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Morus rubra,red mulberry,Moraceae,Mulberry family,N,2,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,1,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Quercus stellata,post oak,Fagaceae,Beech family,N,0,3,1
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Red oak group,NA,Fagaceae,Beech family,N,14,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,12,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,Ulmus,elm,Ulmaceae,Elm family,N,9,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon11,White oak group,NA,Fagaceae,Beech family,N,79,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon12,Acer rubrum,red maple,Aceraceae,Maple family,N,1,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon12,Carya,hickory,Juglandaceae,Walnut family,N,5,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon12,Carya texana,black hickory,Julglandaceae,Walnut family,N,1,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon12,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,1,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon12,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,1,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon12,Ulmus,elm,Ulmaceae,Elm family,N,3,0,0
+TRUE,PERI,forest,QUMA,2007,PERIVegMon12,White oak group,NA,Fagaceae,Beech family,N,33,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon11,Carya,hickory,Juglandaceae,Walnut family,N,25,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon11,Celtis,hackberry,Ulmaceae,Elm family,N,2,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon11,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,5,1,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon11,Morus rubra,red mulberry,Moraceae,Mulberry family,N,1,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon11,Red oak group,NA,Fagaceae,Beech family,N,43,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon11,Ulmus,elm,Ulmaceae,Elm family,N,31,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon11,White oak group,NA,Fagaceae,Beech family,N,51,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon12,Carya,hickory,Juglandaceae,Walnut family,N,1,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon12,Celtis,hackberry,Ulmaceae,Elm family,N,1,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon12,Morus rubra,red mulberry,Moraceae,Mulberry family,N,2,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon12,Red oak group,NA,Fagaceae,Beech family,N,4,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon12,Ulmus,elm,Ulmaceae,Elm family,N,1,0,0
+TRUE,PERI,forest,QUMA,2012,PERIVegMon12,White oak group,NA,Fagaceae,Beech family,N,19,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Carya,hickory,Juglandaceae,Walnut family,N,52,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,36,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,2,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,12,3,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Quercus stellata,post oak,Fagaceae,Beech family,N,9,1,1
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Quercus velutina,black oak,Fagaceae,Beech family,N,2,1,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Red oak group,NA,Fagaceae,Beech family,N,9,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,2,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Ulmus,elm,Ulmaceae,Elm family,N,2,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Ulmus alata,winged elm,Ulmaceae,Elm family,N,1,1,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,Ulmus rubra,slippery elm,Ulmaceae,Elm family,N,7,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon11,White oak group,NA,Fagaceae,Beech family,N,80,1,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Amelanchier,serviceberry,Rosaceae,Rose family,N,2,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Carya,hickory,Juglandaceae,Walnut family,N,5,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,7,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,1,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Morus rubra,red mulberry,Moraceae,Mulberry family,N,5,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Prunus serotina,black cherry,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Quercus stellata,post oak,Fagaceae,Beech family,N,9,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Red oak group,NA,Fagaceae,Beech family,N,1,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,Ulmus alata,winged elm,Ulmaceae,Elm family,N,3,0,0
+TRUE,PERI,forest,QUMA,2016,PERIVegMon12,White oak group,NA,Fagaceae,Beech family,N,113,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Carya,hickory,Juglandaceae,Walnut family,N,92,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Celtis occidentalis,common hackberry,Ulmaceae,Elm family,N,50,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Diospyros virginiana,common persimmon,Ebenaceae,Ebony family,N,2,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Fraxinus,ash,Oleaceae,Olive family,N,3,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Juglans nigra,black walnut,Juglandaceae,Walnut family,N,3,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Juniperus virginiana,eastern redcedar,Cupressaceae,Cypress family,N,1,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Morus rubra,red mulberry,Moraceae,Mulberry family,N,7,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,5,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Red oak group,NA,Fagaceae,Beech family,N,13,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,10,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,Ulmus,elm,Ulmaceae,Elm family,N,8,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon11,White oak group,NA,Fagaceae,Beech family,N,78,0,1
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Amelanchier arborea,common serviceberry,Rosaceae,Rose family,N,2,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Carya,hickory,Juglandaceae,Walnut family,N,9,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Cornus florida,flowering dogwood,Cornaceae,Dogwood family,N,1,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Morus rubra,red mulberry,Moraceae,Mulberry family,N,5,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Nyssa sylvatica,blackgum,Cornaceae,Dogwood family,N,2,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Prunus serotina,black cherry,Rosaceae,Rose family,N,1,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Red oak group,NA,Fagaceae,Beech family,N,4,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Sassafras albidum,sassafras,Lauraceae,Laurel family,N,1,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,Ulmus,elm,Ulmaceae,Elm family,N,3,0,0
+TRUE,PERI,forest,QUMA,2021,PERIVegMon12,White oak group,NA,Fagaceae,Beech family,N,61,0,0
