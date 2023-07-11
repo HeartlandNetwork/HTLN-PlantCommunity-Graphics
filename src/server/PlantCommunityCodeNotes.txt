@@ -1,0 +1,23 @@
+excel files without "clean" in title were imported into R.
+Files labled "clean", were exported out of R. Had to add 0 values for missing classes in groups. Then reimported into R.
+
+Calculate class in excell.
+Convert access file to .csv.
+Year and class were assigned as factors. Edit these depending on analysis. Done to support graphing. Calculates ha
+Select-removes unneeded columns
+calculates basal area for live and dead.
+Generates two data items.
+#### creates sections
+summed basal area by year.
+Exports as text doc (table)
+Added in 0 for missing site/year combinations
+CAlled file "clean"
+reimport
+summarized by site, calc mean ba/yr
+calc. CI
+have to change the N
+saved output to text file as intermediate step
+GGplot for graphing
+scale fill manual (breaks are class sizes), values are colors from color brewer website. hex values
+
+See WICR code for species wise calculations
